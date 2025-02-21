@@ -14,6 +14,7 @@ Visit the GitHub repository to learn more:
 
 ## Owner
 [nizira1n is the Owner of the repo! ](https://discord.gg/nizira1n)
+
 [Website](https://nizira1n.de/)
 ## 📜 License
 This project is released under the MIT license.
