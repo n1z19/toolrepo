@@ -10,7 +10,7 @@ Discover useful Apple tools and exploits for iOS.
 ## 📂 Repository
 Visit the GitHub repository to learn more:
 
-[🔗 View GitHub Repository](https://discord.gg/XBR4kuxYV6)
+[🔗 View Repository on Discord!](https://discord.gg/XBR4kuxYV6)
 
 ## 📜 License
 This project is released under the MIT license.
